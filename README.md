@@ -1,2 +1,2 @@
 # codsoft
-for my codsoft internshio
+for my codsoft internship
